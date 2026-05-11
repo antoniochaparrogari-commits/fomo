@@ -1,6 +1,6 @@
 // FOMO Santanyi - Service Worker
 // Permite que la app funcione sin internet una vez instalada
-const CACHE_NAME = 'fomo-v1';
+const CACHE_NAME = 'fomo-v2';
 const ASSETS = [
   './',
   './index.html',
